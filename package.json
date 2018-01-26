@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bip39": "^2.5.0",
     "bitcoinjs-lib": "^3.3.2",
     "commander": "^2.13.0",
     "inquirer": "^5.0.1",
